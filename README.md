@@ -20,3 +20,4 @@ Ein eigenes Projekt auf Basis dieses Beispielprojekts erstellen:
 1. Kopieren Sie das Projektverzeichnis in ein neues Verzeichnis: `cp -r calliope-codebeispiel/ mein-projekt`.
 2. Wechseln Sie in das neue Projektverzeichnis: `cd mein-projekt/`.
 3. Editieren Sie die Datei `module.json`: Ändern Sie den Projektnamen von `calliope-codebeispiel` zu `mein-projekt`.
+
