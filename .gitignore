@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# yotta
+*~
+build/
+yotta_modules/
+yotta_targets/

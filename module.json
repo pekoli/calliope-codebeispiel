@@ -1,0 +1,11 @@
+{
+  "name": "calliope-codebeispiel",
+  "version": "0.0.1",
+  "description": "yotta-Projektvorlage für C/C++ auf Calliope mini",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "microbit": "calliope-mini/microbit#v2.0.0-rc7-calliope-1.0.1"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
